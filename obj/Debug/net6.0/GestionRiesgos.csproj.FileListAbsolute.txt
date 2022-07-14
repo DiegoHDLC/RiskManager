@@ -1,0 +1,17 @@
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\bin\Debug\net6.0\GestionRiesgos.exe
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\bin\Debug\net6.0\GestionRiesgos.deps.json
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\bin\Debug\net6.0\GestionRiesgos.runtimeconfig.json
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\bin\Debug\net6.0\GestionRiesgos.dll
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\bin\Debug\net6.0\GestionRiesgos.pdb
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\obj\Debug\net6.0\GestionRiesgos.csproj.AssemblyReference.cache
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\obj\Debug\net6.0\GestionRiesgos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\obj\Debug\net6.0\GestionRiesgos.AssemblyInfoInputs.cache
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\obj\Debug\net6.0\GestionRiesgos.AssemblyInfo.cs
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\obj\Debug\net6.0\GestionRiesgos.csproj.CoreCompileInputs.cache
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\obj\Debug\net6.0\GestionRiesgos.dll
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\obj\Debug\net6.0\refint\GestionRiesgos.dll
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\obj\Debug\net6.0\GestionRiesgos.pdb
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\obj\Debug\net6.0\GestionRiesgos.genruntimeconfig.cache
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\obj\Debug\net6.0\ref\GestionRiesgos.dll
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\di_eg\OneDrive\Documents\RepoCSharp\GestionRiesgos\obj\Debug\net6.0\GestionRiesgos.csproj.CopyComplete
