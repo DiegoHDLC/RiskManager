@@ -93,7 +93,7 @@ class UpdatePassword(Resource):
 
 
 # enviar correo para recuperar contraseña
-class sendEmailToGetVerificationCode(Resource):
+class SendVerificationCodeByEmail(Resource):
     def post(self):
         user = "dhdlc30@gmail.com"
         password = "5722F86161825E22D1B8908D3E992116DC3D"
@@ -143,8 +143,8 @@ class Login(Resource):
 
 api.add_resource(Login, '/login')
 api.add_resource(AddUser, '/addUser')
-api.add_resource(sendEmailToGetVerificationCode,
-                 '/sendEmailToGetVerificationCode')
+api.add_resource(SendVerificationCodeByEmail,
+                 '/sendVerificationCodeByEmail')
 api.add_resource(UpdatePassword, '/updatePassword')
 
 
