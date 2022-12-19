@@ -75,7 +75,7 @@ def verificationCodeValidation(codigo, correo):
 
 
 class UpdatePassword(Resource):
-    def post(self):
+    def put(self):
         data = request.get_json()  # correo, new_contrasena
         cur = conn.cursor()
         # check if user exists
